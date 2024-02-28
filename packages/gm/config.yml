@@ -1,0 +1,11 @@
+app:
+  port: 3000
+  fallbackLanguage: 'en'
+  mode: 'production'
+
+swagger:
+  enabled: true
+  path: '/swagger'
+  title: 'GM Service'
+  description: 'The GM Service API description'
+  version: '1.0.0'

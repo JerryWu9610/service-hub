@@ -1,0 +1,2 @@
+exception.fallback_message: '未知错误！'
+exception.handle_img_failed_message: '处理图片失败！'
