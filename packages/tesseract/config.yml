@@ -1,0 +1,14 @@
+app:
+  port: 3000
+  fallbackLanguage: 'en'
+  mode: 'production'
+
+swagger:
+  enabled: true
+  path: '/swagger'
+  title: 'Tesseract Service'
+  description: 'The Tesseract service API description'
+  version: '1.0.0'
+
+tesseract:
+  numWorkers: 1
