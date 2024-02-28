@@ -1,0 +1,11 @@
+app:
+  port: 3000
+  fallbackLanguage: 'en'
+  mode: 'production'
+
+swagger:
+  enabled: true
+  path: '/swagger'
+  title: 'ServiceHub Boilerplate'
+  description: 'The ServiceHub Boilerplate API description'
+  version: '1.0.0'
